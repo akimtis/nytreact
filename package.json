@@ -1,0 +1,28 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akimtis/nytreact.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/akimtis/nytreact/issues"
+  },
+  "homepage": "https://github.com/akimtis/nytreact#readme",
+  "dependencies": {
+    "body-parser": "1.17.1",
+    "express": "4.15.2",
+    "mongojs": "2.4.0",
+    "morgan": "1.8.1",
+    "request": "2.81.0",
+    "spotify": "0.3.0"
+  },
+  "devDependencies": {},
+  "author": ""
+}
